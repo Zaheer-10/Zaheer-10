@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ZAHEER
-- 👀 I’m interested in ...CODING
+- 
 - 🌱 I’m currently learning ...PYHON
 - 📫 Reach me ... through instagram @soul_of_mercara
 
