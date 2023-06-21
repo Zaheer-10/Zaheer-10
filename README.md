@@ -1,10 +1,16 @@
 <h1 align="center"> Hi, I'm Zaheer 👋</h1>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/f448191b90492a24807760b8b04bd41e4ac1a3ed4a3d093a691c7ad3da50fbb6/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532333336424346372663656e7465723d74727565267643656e7465723d74727565266c696e65733d446174612b536369656e746973742b496e7465726e3b41492b446576656c6f7065723b446565702b4c6561726e696e672b456e74687573696173743b436c65616e2b436f64652b4576616e67656c697374" alt="Image Description">
+</p>
+
 
 <p align="center">
+  <img src="https://github.com/Zaheer-10/Feature-Engineering/blob/main/ml22.gif" alt="Image Description">
+</p>
 
 # 💫 About Me:
 💻 I'm currently an ML Engineer Intern at Packapeer Academy Ltd  in India.<br>🧬 Working on a ML | NLP project that involves various tasks.<br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Learning about MLOp's , LLM's and advanced NLP & DL  stuff.<br>📬 How to reach me: soulofmercara@gmail.com
-</p>
+
 
 
 
