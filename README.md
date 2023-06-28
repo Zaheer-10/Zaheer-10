@@ -49,4 +49,4 @@ Hi, I'm Zaheer
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/9353333151@kotak) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/Zaheer-10/Zaheer-10/blob/output/github-contribution-grid-snake.svg)
