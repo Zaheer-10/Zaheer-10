@@ -12,7 +12,6 @@ Hi, I'm Zaheer
 <p align="center">
   <img src="https://github.com/Zaheer-10/Feature-Engineering/blob/main/ml22.gif" alt="Image Description">
 </p>
-<div align="center">
 
 
 
