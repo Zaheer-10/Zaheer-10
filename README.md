@@ -13,7 +13,10 @@ Hi, I'm Zaheer
   <img src="https://github.com/Zaheer-10/Feature-Engineering/blob/main/ml22.gif" alt="Image Description">
 </p>
 
+<div align="center">
 
+![GitHub followers](https://img.shields.io/github/followers/Zaheer-10?style=social)    <img src="https://visitcount.itsvg.in/api?id=Zaheer-10&icon=5&color=11" alt="Zaheer" />
+</div>
 
 # 💫 About Me:
 💻 I'm currently an ML Engineer Intern at Packapeer Academy Ltd  in India.<br>🧬 Working on a ML | NLP project that involves various tasks.<br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Learning about MLOp's , LLM's and advanced NLP & DL  stuff.<br>
@@ -45,7 +48,7 @@ Hi, I'm Zaheer
 ![](https://github-contributor-stats.vercel.app/api?username=Zaheer-10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zaheer-10&icon=5&color=11)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/9353333151@kotak) 
