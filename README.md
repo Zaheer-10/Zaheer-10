@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://gifmaker.me/files/download/home/20230730/20/F69Hkd09HFoWKKBo7rXspE/gitbanner.png">
+</p>
 <h1 align="center">
 Hi, I'm Zaheer
  <a>
