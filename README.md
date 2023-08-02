@@ -18,7 +18,7 @@ Hi, I'm Zaheer
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Zaheer-10?style=social)    <img src="https://visitcount.itsvg.in/api?id=Zaheer-10&icon=5&color=11" alt="Zaheer" />
+![GitHub followers](https://img.shields.io/github/followers/Zaheer-10?style=social)  <img src="https://visitcount.itsvg.in/api?id=Zaheer-10&icon=5&color=11" alt="Profile Views" />
 </div>
 
 # 💫 About Me:
