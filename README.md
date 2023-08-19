@@ -110,10 +110,7 @@ Hi, I'm Zaheer
     <img src="https://github-profile-trophy.vercel.app/?username=Zaheer-10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2" alt="GitHub Trophies" style="width: 50%; max-height: 192px; object-fit: contain;" />
   </div>
 </div>
-
-
-
-
+<hr>
 <hr>
 <div align="center">
   <h2>Socials</h2>
