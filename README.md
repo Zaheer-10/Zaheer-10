@@ -77,7 +77,7 @@ Hi, I'm Zaheer
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-  <!-- Dagshub -->
+  <!-- DagshuB -->
   <a href="#"><img alt="Dagshub" src="https://img.shields.io/badge/Dagshub-%23FF6347.svg?logo=dagshub&logoColor=white"></a>
   <br>
 </div>
@@ -103,7 +103,6 @@ Hi, I'm Zaheer
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zaheer's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Zaheer-10&bg_color=1F222E&color=ad73e7&line=a25bc8&point=e8e8e8&area=true&hide_border=true" /></a>
  </center>
 <hr>
-
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; box-sizing: border-box;">
     <h2>🏆 GitHub Trophies</h2>
