@@ -2,7 +2,7 @@
   <img src="https://gifmaker.me/files/download/home/20230730/20/F69Hkd09HFoWKKBo7rXspE/gitbanner.png">
 </p>
 <h1 align="center">
-Hi, I'm Zaheer
+        Hi, I'm Zaheer
  <a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
  </a>
@@ -22,11 +22,11 @@ Hi, I'm Zaheer
 
 
 # 💫 About Me:
+
 💻 I'm currently an ML Engineer Intern at Packapeer Academy Ltd  in India.<br>🧬 Working on a ML | NLP project that involves various tasks.<br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Learning about MLOp's , LLM's and advanced NLP & DL  stuff.<br>
 📬 How to reach me: <a href="mailto:zaheer.work24@gmail.com">zaheer.work24@gmail.com</a>
 
 ---
-
 <div align="center">
   <h2 align="center">💻 Tech Stack:</h2>
   <!-- Programming and Markup Languages -->
@@ -90,7 +90,6 @@ Hi, I'm Zaheer
    <a><img alt="Zaheer's streak" src="https://streak-stats.demolab.com?user=Zaheer-10&theme=tokyonight-duo&border_radius=3.4"/></a> 
   </div>
 
-  
   <div style="flex: 1; padding: 10px; box-sizing: border-box; display: flex; flex-direction: column;">
        <h2>📊GitHub Profile Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=Zaheer-10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -109,10 +108,16 @@ Hi, I'm Zaheer
     <img src="https://github-profile-trophy.vercel.app/?username=Zaheer-10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2" alt="GitHub Trophies" style="width: 50%; max-height: 192px; object-fit: contain;" />
   </div>
 </div>
+
+
 <hr>
 <hr>
+
+
 <div align="center">
+  
   <h2>Socials</h2>
+  
   <a href="YOUR_LINKEDIN_PROFILE_URL"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" width="48" height="48" style="margin-right: 10px;"></a>
   <a href="YOUR_TWITTER_PROFILE_URL"><img src="https://cdn-icons-png.flaticon.com/128/3991/3991746.png" alt="Twitter" width="48" height="48" style="margin-right: 10px;"></a>
   <a href="YOUR_MEDIUM_PROFILE_URL"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" alt="Medium" width="48" height="48" style="margin-right: 10px;"></a>
@@ -120,6 +125,7 @@ Hi, I'm Zaheer
   <a href="YOUR_INSTAGRAM_PROFILE_URL"><img src="https://cdn-icons-png.flaticon.com/128/4782/4782335.png" alt="Instagram" width="48" height="48" style="margin-right: 10px;"></a>
   <a href="YOUR_JOVIAN_PROFILE_URL"><img src="https://jovian.com/jovian_logo.svg" alt="Jovian" width="48" height="48" style="margin-right: 10px;"></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://cdn-icons-png.flaticon.com/128/1084/1084320.png" alt="Portfolio" width="48" height="48" style="margin-right: 10px;"></a>
+  
 </div>
 
 
