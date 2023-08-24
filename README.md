@@ -20,7 +20,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Zaheer-10?style=social)  <img src="https://visitcount.itsvg.in/api?id=Zaheer-10&icon=5&color=11" alt="Profile Views" />
 </div>
 
-
 # 💫 About Me:
 
 💻 I'm currently an ML Engineer Intern at Packapeer Academy Ltd  in India.<br>🧬 Working on a ML | NLP project that involves various tasks.<br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Learning about MLOp's , LLM's and advanced NLP & DL  stuff.<br>
@@ -109,10 +108,8 @@
   </div>
 </div>
 
-
 <hr>
 <hr>
-
 
 <div align="center">
   
@@ -127,7 +124,3 @@
   <a href="YOUR_PORTFOLIO_URL"><img src="https://cdn-icons-png.flaticon.com/128/1084/1084320.png" alt="Portfolio" width="48" height="48" style="margin-right: 10px;"></a>
   
 </div>
-
-
-
-
