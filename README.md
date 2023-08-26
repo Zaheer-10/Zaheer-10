@@ -111,7 +111,6 @@
 <hr>
 
 <div align="center">
-  
   <h2>Socials</h2>
   
   <a href="YOUR_LINKEDIN_PROFILE_URL"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" width="48" height="48" style="margin-right: 10px;"></a>
@@ -121,5 +120,4 @@
   <a href="YOUR_INSTAGRAM_PROFILE_URL"><img src="https://cdn-icons-png.flaticon.com/128/4782/4782335.png" alt="Instagram" width="48" height="48" style="margin-right: 10px;"></a>
   <a href="YOUR_JOVIAN_PROFILE_URL"><img src="https://jovian.com/jovian_logo.svg" alt="Jovian" width="48" height="48" style="margin-right: 10px;"></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://cdn-icons-png.flaticon.com/128/1084/1084320.png" alt="Portfolio" width="48" height="48" style="margin-right: 10px;"></a>
-  
 </div>
