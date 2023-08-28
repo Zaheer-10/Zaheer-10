@@ -111,7 +111,6 @@
 </div>
 
 <hr>
-<hr>
 
 <div align="center">
   <h2>Socials</h2>
