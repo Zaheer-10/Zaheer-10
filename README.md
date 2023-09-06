@@ -100,7 +100,7 @@
 </div>
  <center>
  <h5><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level</h5>
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zaheer's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Zaheer-10&bg_color=1F222E&color=ad73e7&line=a25bc8&point=e8e8e8&area=true&hide_border=true" /></a>
+ <a href=""><img alt="Zaheer's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Zaheer-10&bg_color=1F222E&color=ad73e7&line=a25bc8&point=e8e8e8&area=true&hide_border=true" /></a>
  </center>
 <hr>
 <div style="display: flex;">
