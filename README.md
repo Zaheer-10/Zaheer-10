@@ -26,8 +26,6 @@
 📬 How to reach me: <a href="mailto:zaheer.work24@gmail.com">zaheer.work24@gmail.com</a></h5>
 
 <hr  class='mt-5'style="height: 5px; border: none; background-color: black;">
-
-
 <div align="center">
   <h2 align="center">💻 Tech Stack:</h2>
   <!-- Programming and Markup Languages -->
@@ -59,7 +57,6 @@
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="NumPy" class="tech-icon" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas" class="tech-icon" />
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white" alt="Plotly" class="tech-icon" />
-  
   <!-- Additional Tools -->
   <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
   <!-- Communication and Version Control -->
