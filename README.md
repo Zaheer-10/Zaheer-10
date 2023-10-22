@@ -3,9 +3,7 @@
 </p>
 <h1 align="center">
         Hi, I'm Zaheer
- <a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
- </a>
+ <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
 </h1>
 <p align="center">
 <a>
@@ -16,7 +14,7 @@
 </p>
 
 <div align="center">
-
+  
 ![GitHub followers](https://img.shields.io/github/followers/Zaheer-10?style=social)  <img src="https://visitcount.itsvg.in/api?id=Zaheer-10&icon=5&color=11" alt="Profile Views" />
 </div>
 
