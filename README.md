@@ -69,8 +69,10 @@ Portfolio:<a href='https://zaheer-ai.pages.dev/'>visit here</a>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" class="tech-icon" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma" class="tech-icon" />
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom" class="tech-icon" />
-  <!-- Miscellaneous -->
-<!--   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a> -->
+
+ <!--  others/misc-->
+ 
+  <!--   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a> -->
 <!--   <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a> -->
 <!--   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a> -->
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
@@ -124,5 +126,3 @@ Portfolio:<a href='https://zaheer-ai.pages.dev/'>visit here</a>
 
 
 <hr  class='mt-5'style="height: 5px; border: none; background-color: black;">
-
-
