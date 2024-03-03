@@ -20,7 +20,7 @@
 
 # 💫 About Me:
 
-<h5>💻 I'm currently an Machine Learning Engineer at Packapeer Academy Ltd  in India.<br>🧬 Working on a ML|DL|NLP project that involves various tasks.<br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Exploring MLOps, LLMs, Gen AI, and advanced NLP & DL stuffs.<br>
+<h5>🖥️ I'm presently working as an Associate Machine Learning Engineer at <a href='https://goneutrinos.com/'> Neutrinos.</a><br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Exploring MLOps, LLMs, Gen AI, and advanced NLP & DL stuffs.<br>
 📬 How to reach me: <a href="mailto:zaheer.work24@gmail.com">zaheer.work24@gmail.com</a><br>
 Portfolio:<a href='https://zaheer-ai.pages.dev/'>visit here</a>
 </h5>
